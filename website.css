@@ -6,8 +6,7 @@ header{
 }
 header img{border-radius: 80px;
 }
-main img{
-max-width: 100%;
-display: block;
-margin: auto;
+
+img{
+	vertical-align: center;
 }
