@@ -1,0 +1,11 @@
+header{
+	background-color: ghostwhite;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+header img{border-radius: 80px;
+}
+main img{
+max-width: 100%;
+}
