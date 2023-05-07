@@ -6,6 +6,8 @@ header{
 }
 header img{border-radius: 80px;
 }
-main{
+main img{
 max-width: 100%;
+display: block;
+margin: auto;
 }
